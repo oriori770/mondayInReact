@@ -1,0 +1,12 @@
+.{
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.title{
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
